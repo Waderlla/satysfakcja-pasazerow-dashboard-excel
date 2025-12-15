@@ -65,3 +65,16 @@ Efektem końcowym jest **interaktywny dashboard w Excelu** składający się z d
 - `satysfakcja-pasazerow-analiza-lotow.xlsm` - gotowy dashboard z makrami (VBA) (2 strony, slicery).
 - `satysfakcja-pasazerow-analiza-lotow.xlsx` - wersja bez makr (podgląd; 2 strony, slicery).
 - `README.md` - opis projektu (ten plik).
+
+---
+
+## Podgląd dashboardu
+
+<b>Strona 1 - satysfakcja i demografia</b><br>
+<img src="images/dashboard_1.png" width="900">
+
+<b>Strona 2 - oceny elementów podróży</b><br>
+<img src="images/dashboard_2.png" width="900">
+
+<b>Strona 3 - wnioski i rekomendacje</b><br>
+<img src="images/dashboard_3.png" width="900">
