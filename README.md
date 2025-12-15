@@ -60,10 +60,16 @@ Efektem końcowym jest **interaktywny dashboard w Excelu** składający się z d
 
 ---
 
-## Pliki w repozytorium
-- `satysfakcja-pasazerow-analiza-lotow.xlsm` - gotowy dashboard z makrami (VBA) (2 strony, slicery).
-- `satysfakcja-pasazerow-analiza-lotow.xlsx` - wersja bez makr (podgląd; 2 strony, slicery).
-- `README.md` - opis projektu (ten plik).
+## Struktura repozytorium
+
+├── files/
+│   ├── satysfakcja-pasazerow-analiza-lotow.xlsm
+│   └── satysfakcja-pasazerow-analiza-lotow.xlsx
+├── images/
+│   ├── dashboard_1.png
+│   ├── dashboard_2.png
+│   └── dashboard_3.png
+└── README.md
 
 ---
 
