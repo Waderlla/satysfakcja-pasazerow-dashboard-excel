@@ -61,7 +61,7 @@ Efektem końcowym jest **interaktywny dashboard w Excelu** składający się z d
 ---
 
 ## Struktura repozytorium
-
+```
 ├── files/
 │   ├── satysfakcja-pasazerow-analiza-lotow.xlsm
 │   └── satysfakcja-pasazerow-analiza-lotow.xlsx
@@ -70,7 +70,7 @@ Efektem końcowym jest **interaktywny dashboard w Excelu** składający się z d
 │   ├── dashboard_2.png
 │   └── dashboard_3.png
 └── README.md
-
+```
 ---
 
 ## Podgląd dashboardu
