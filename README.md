@@ -61,7 +61,6 @@ Efektem końcowym jest **interaktywny dashboard w Excelu** składający się z d
 ---
 
 ## Pliki w repozytorium
-- `Ankieta.csv` - dane źródłowe.
 - `satysfakcja-pasazerow-analiza-lotow.xlsm` - gotowy dashboard z makrami (VBA) (2 strony, slicery).
 - `satysfakcja-pasazerow-analiza-lotow.xlsx` - wersja bez makr (podgląd; 2 strony, slicery).
 - `README.md` - opis projektu (ten plik).
